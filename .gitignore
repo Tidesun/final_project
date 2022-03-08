@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/gene_expression_array.txt
+data/Methylation27.txt
+data/TCGA-OV.htseq_fpkm.tsv
